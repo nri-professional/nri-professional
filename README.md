@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at **Virginia Tech** (Class of 2026)  
 💻 Interested in **full-stack development, solving problems, and working with passionate people**  
-🎨 Looking to elevate creatives with technology that removes barriers 
+🎨 Looking to **elevate creatives** with technology that removes barriers 
 
 ---
 
