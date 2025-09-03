@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nicholas
 
 🎓 Computer Science student at **Virginia Tech** (Class of 2026)  
-💻 Interested in **AI, systems programming, and full-stack development**  
+💻 Interested in **full-stack development, solving problems, and working with passionate people**  
 🎨 Looking to elevate creatives with technology that removes barriers 
 
 ---
