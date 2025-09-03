@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Nicholas
 
-<!--
-**nri-professional/nri-professional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at **Virginia Tech** (Class of 2026)  
+💻 Interested in **AI, systems programming, and full-stack development**  
+🎨 Looking to elevate creatives with technology that removes barriers 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech I've Worked With
+
+- Always expanding my toolkit, but here are some I’ve worked with recently:
+- **Languages:** Python, Java, C++, C#, Kotlin, JavaScript, SQL  
+- **Tools & Frameworks:** TensorFlow, Docker, Android Studio, VS Code, Arduino  
+- **Other:** Web dev (HTML/CSS/JS), Requirements gathering, Technical documentation  
+
+---
+
+## 📫 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/nicholasricketts/)  
+- [Email](mailto:nicholasricketts59@gmail.com)  
+- [GitHub](https://github.com/nri-professional)  
+
+---
+
+⭐ Feel free to explore my repos below!
